@@ -1,5 +1,9 @@
 # Govinda-Dasu-Aloo-Fry
 
+This is based on the official Govinda Dasu Aloo Fry Recipe: https://govindadasu.com/2018/10/09/govinda-dasu-cookbook-aloo-fry/?fbclid=IwAR1tzinUrZX2Lhu33PNsriXUci9lfvtJLDiwTUrpIO_QZKXFw4jRhUKPw60
+
+And the official video of the Govinda Dasu Aloo Fry Recipe: https://www.youtube.com/watch?v=bMpaSxxTRuE&feature=emb_title
+
 1. For the Govinda Dasu Aloo Fry, you should always plan on at least two medium potatoes per person, or you will not have any aloo fry left for yourselves when it comes to the concluding yogurt-rice course.
 2. The number of potatoes should be between four and ten for a 12-inch skillet, otherwise you will end up with either burnt or lumped up fry.
 3. California white rose potatoes work the best, but those rose-peeled versions are acceptable. If you are using Idaho potatoes, do get rid of those pesky black spots. I would avoid the yellow-gold potatoes from Yukon.
